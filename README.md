@@ -19,4 +19,4 @@
 ### 1주차 (23.11.13 ~ 23.11.20)
 * 프로그래밍, 자바 기본 개념 정리
 * JVM, JRE, JDK, IDE 개념 및 용어 정리
-  * 발표 자료: 
+  * 발표 자료: [1. 자바 소개.pdf](https://github.com/JangYeonghun/Java_Study/files/13476584/1.pdf)
