@@ -10,7 +10,9 @@
 
 # 스터디 방식
 * 매주 월요일 21:00 ~ 비대면 / 월 1회 대면(미정)
-* 활용 도서<br><a href="[https://product.kyobobook.co.kr/detail/S000061352140](https://www.yes24.com/Product/Goods/59190885)">Power Java compact</a><br><a href=""></a>
+* 활용 도서
+  * <a href="[https://product.kyobobook.co.kr/detail/S000061352140](https://www.yes24.com/Product/Goods/59190885)">Power Java compact</a>
+  * <a href=""></a>
 * 매주 하나씩 맡아서 간단하게 발표
 * 예제, 연습 문제 풀고 올리기
   * /* 문제 */
