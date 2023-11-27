@@ -13,7 +13,8 @@
 * 활용 도서<br><a href="[https://product.kyobobook.co.kr/detail/S000061352140](https://www.yes24.com/Product/Goods/59190885)">Power Java compact</a><br><a href=""></a>
 * 매주 하나씩 맡아서 간단하게 발표
 * 예제, 연습 문제 풀고 올리기
-
+  * /* 문제 */
+  * 코드 (각 줄 주석 달기)
 
 # 스터디 진행 상황
 ### 1주차 (23.11.13 ~ 23.11.20)
